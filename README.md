@@ -105,7 +105,7 @@ It ensures **responsiveness, scalability, and usability across devices**, reduci
 
 The **Smart Inventory Management System Dashboard** bridges traditional inventory management with **intelligent analytics**. By combining AI-driven insights with interactive data visualization, it empowers businesses to make **data-backed decisions**, streamline operations, and reduce costs while maintaining a **clean, modern interface** suitable for professional deployment.
 
----
+----
 # Screenshot
 <img width="1880" height="922" alt="Screenshot 2025-11-20 091037" src="https://github.com/user-attachments/assets/28c4d44d-b87c-420d-9da6-0342b16d0290" />
 <img width="659" height="683" alt="Screenshot 2025-11-20 091019" src="https://github.com/user-attachments/assets/c24b9b80-8572-443f-b77e-e738de3893de" />
